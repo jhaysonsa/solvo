@@ -68,7 +68,7 @@ class ElectronicItems {
 class ElectronicItem {
     
  public  $price;
- private  $type;
+ public  $type;
  public $wired;
  const ELECTRONIC_ITEM_CONSOLE = 'console';
  const ELECTRONIC_ITEM_MICROWAVE = 'microwave';
